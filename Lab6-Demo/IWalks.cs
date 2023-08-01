@@ -6,9 +6,12 @@ using System.Threading.Tasks;
 
 namespace Lab6_Demo
 {
-    internal class Bear: Mammal, IWalks
+    public interface IWalks
     {
         public int legs { get; set; }
-        public string furColor;
+        public void Walk()
+        {
+            Console.WriteLine("Walking...");
+        }
     }
 }

@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace Lab6_Demo
 {
-    public class Stork: Bird
+    public class Stork: Bird, IWalks
     {
         public int beakSize;
+        public int legs { get; set; }
 
         public Stork(string feathercolor)
         {

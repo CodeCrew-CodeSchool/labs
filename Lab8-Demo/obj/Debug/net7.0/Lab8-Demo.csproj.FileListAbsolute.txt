@@ -1,0 +1,15 @@
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\bin\Debug\net7.0\Lab8-Demo.exe
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\bin\Debug\net7.0\Lab8-Demo.deps.json
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\bin\Debug\net7.0\Lab8-Demo.runtimeconfig.json
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\bin\Debug\net7.0\Lab8-Demo.dll
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\bin\Debug\net7.0\Lab8-Demo.pdb
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.csproj.AssemblyReference.cache
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.AssemblyInfoInputs.cache
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.AssemblyInfo.cs
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.csproj.CoreCompileInputs.cache
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.dll
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\refint\Lab8-Demo.dll
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.pdb
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\Lab8-Demo.genruntimeconfig.cache
+C:\Users\raygr\Documents\Dev\SandBox\Lab8-Demo\obj\Debug\net7.0\ref\Lab8-Demo.dll

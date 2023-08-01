@@ -1,0 +1,5 @@
+C:\Users\raygr\Documents\Dev\labs\Lab6-Demo\obj\Debug\net7.0\Lab6-Demo.csproj.AssemblyReference.cache
+C:\Users\raygr\Documents\Dev\labs\Lab6-Demo\obj\Debug\net7.0\Lab6-Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raygr\Documents\Dev\labs\Lab6-Demo\obj\Debug\net7.0\Lab6-Demo.AssemblyInfoInputs.cache
+C:\Users\raygr\Documents\Dev\labs\Lab6-Demo\obj\Debug\net7.0\Lab6-Demo.AssemblyInfo.cs
+C:\Users\raygr\Documents\Dev\labs\Lab6-Demo\obj\Debug\net7.0\Lab6-Demo.csproj.CoreCompileInputs.cache
