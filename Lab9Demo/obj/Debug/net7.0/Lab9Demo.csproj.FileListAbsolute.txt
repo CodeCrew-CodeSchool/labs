@@ -1,0 +1,15 @@
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\bin\Debug\net7.0\Lab9Demo.exe
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\bin\Debug\net7.0\Lab9Demo.deps.json
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\bin\Debug\net7.0\Lab9Demo.runtimeconfig.json
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\bin\Debug\net7.0\Lab9Demo.dll
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\bin\Debug\net7.0\Lab9Demo.pdb
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.csproj.AssemblyReference.cache
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.AssemblyInfoInputs.cache
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.AssemblyInfo.cs
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.csproj.CoreCompileInputs.cache
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.dll
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\refint\Lab9Demo.dll
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.pdb
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\Lab9Demo.genruntimeconfig.cache
+C:\Users\raygr\Documents\Dev\labs\Lab9Demo\obj\Debug\net7.0\ref\Lab9Demo.dll
